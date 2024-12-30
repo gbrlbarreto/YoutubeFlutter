@@ -1,6 +1,6 @@
 # youtube
 
-A new Flutter project.
+Projeto desenvolvido com interface similar ao Youtube, onde executa vídeos através da API da plataforma.
 
 ## Getting Started
 
